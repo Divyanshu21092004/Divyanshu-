@@ -1,4 +1,4 @@
-Data-analysis-using pandas
+Data-analysis-using-pandas
 
 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻:
 𝗗𝗮𝘁𝗮 𝗦𝗲𝗹𝗲𝗰𝘁𝗶𝗼𝗻: Used the publicly available Bank Marketing Dataset from the UCI Machine Learning Repository, which contains details of marketing campaigns conducted by a Portuguese bank.
